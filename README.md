@@ -15,7 +15,6 @@
 <!-- Compact Info Badges -->
 <img src="https://img.shields.io/badge/Focus-AI%20Systems-00F7FF?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Stack-C%2B%2B%20%7C%20Python%20%7C%20CMOS-7C4DFF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Goal-NVIDIA%20%7C%20Intel%20%7C%20AMD-FF00FF?style=flat-square&labelColor=0D1117" />
 
 <br/><br/>
 
