@@ -23,11 +23,11 @@
 <br/>
 
 <!-- Contact Links -->
-[![Email](https://img.shields.io/badge/Email-MuhammadUmar162001-7CF5FF?style=flat-square&logo=gmail&logoColor=white)](mailto:MuhammadUmar162001@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=Umarii101&color=7CF5FF&style=flat-square&label=Views" />
+[![Email](https://img.shields.io/badge/Email-MuhammadUmar162001@gmail.com-7CF5FF?style=flat-square&logo=gmail&logoColor=white)](mailto:MuhammadUmar162001@gmail.com)
+<img src="https://img.shields.io/badge/Availability-24%2F7-7CF5FF?style=flat-square&labelColor=0D1117" />
 
 <br/>
 
-"Don't just use it — understand how it runs"
+![Motto](https://img.shields.io/badge/"Don't%20just%20use%20it%20—%20understand%20and%20Apply"-7CF5FF?style=flat-square&labelColor=0D1117)
 
 </div>
