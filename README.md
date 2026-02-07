@@ -10,7 +10,7 @@
 
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7CF5FF&center=true&vCenter=true&width=600&lines=Performance-Driven+Systems+Engineer;AI+Hardware+Integration;Quantization+%7C+Inference+%7C+Optimization;From+CMOS+Gates+to+Neural+Networks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=0D1117&center=true&vCenter=true&width=600&lines=Performance-Driven+Systems+Engineer;AI+Hardware+Integration;Quantization+%7C+Inference+%7C+Optimization;From+CMOS+Gates+to+Neural+Networks" alt="Typing SVG" />
 
 <br/>
 
@@ -22,8 +22,8 @@
 <br/><br/>
 
 <!-- Quick Stats in One Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=Umarii101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7CF5FF&icon_color=A78BFA&text_color=E6EDF3&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umarii101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7CF5FF&text_color=E6EDF3&langs_count=6" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Umarii101&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=7CF5FF&text_color=E6EDF3&count_private=true&include_all_commits=true&cache_seconds=86400" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umarii101&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=E6EDF3&langs_count=6&cache_seconds=86400" height="170" />
 
 <br/>
 
