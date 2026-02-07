@@ -5,7 +5,8 @@
 <div align="center">
 
 <!-- Animated Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,8&height=200&section=header&text=NEURAL%20INTERFACE&fontSize=50&fontColor=7CF5FF&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Systems%20%2B%20Hardware&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=NEURAL%20INTERFACE&fontSize=50&fontColor=7CF5FF&animation=fadeIn&fontAlignY=38&desc=AI%20%2B%20Systems%20%2B%20Hardware&descSize=20&descAlignY=58" width="100%"/>
+
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7CF5FF&center=true&vCenter=true&width=600&lines=Performance-Driven+Systems+Engineer;AI+Hardware+Integration;Quantization+%7C+Inference+%7C+Optimization;From+CMOS+Gates+to+Neural+Networks" alt="Typing SVG" />
