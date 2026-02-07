@@ -21,9 +21,13 @@
 
 <br/><br/>
 
-<!-- Quick Stats in One Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=Umarii101&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=7CF5FF&text_color=E6EDF3&count_private=true&include_all_commits=true&cache_seconds=86400" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umarii101&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=E6EDF3&langs_count=6&cache_seconds=86400" height="170" />
+<!-- Quick Stats in One Row (Ultra-Minimal, Fully Stable) -->
+<div align="center">
+<!-- Commits & Contributions -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Commits+&+Contributions&fontSize=28&fontColor=E6EDF3" width="49%" />
+<!-- Top Languages -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Top+Languages&fontSize=28&fontColor=E6EDF3" width="49%" />
+</div>
 
 <br/>
 
