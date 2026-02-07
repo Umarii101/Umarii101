@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animated Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0000FF,FFFF00&height=200&section=header&text=Sultan%20Umar&fontSize=50&fontColor=E6EDF3&animation=none&fontAlignY=35&desc=AI%20%2B%20Systems%20%2B%20Hardware&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=Sultan%20Umar&fontSize=50&fontColor=E6EDF3&animation=wave&fontAlignY=35&desc=AI%20%2B%20Systems%20%2B%20Hardware&descSize=20&descAlignY=55" width="100%"/>
 
 
 <!-- Typing Animation -->
