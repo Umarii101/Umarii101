@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Image -->
-<img src="assets/header.svg" width="100%" />
-
+<img src="https://raw.githubusercontent.com/Umarii101/Umarii101/main/assets/headers.svg" width="100%" />
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Performance-Driven+Systems+Engineer;AI+Hardware+Integration;Quantization+%7C+Inference+%7C+Optimization;From+CMOS+Gates+to+Neural+Networks" alt="Typing SVG" />
 
