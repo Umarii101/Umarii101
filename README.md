@@ -21,14 +21,6 @@
 
 <br/><br/>
 
-<!-- Quick Stats in One Row (Ultra-Minimal, Fully Stable) -->
-<div align="center">
-<!-- Commits & Contributions -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Commits+&+Contributions&fontSize=28&fontColor=E6EDF3" width="49%" />
-<!-- Top Languages -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Top+Languages&fontSize=28&fontColor=E6EDF3" width="49%" />
-</div>
-
 <br/>
 
 <!-- Snake Animation (Auto-generated) -->
