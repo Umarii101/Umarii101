@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animated Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,8&height=200&section=header&text=NEURAL%20INTERFACE&fontSize=50&fontColor=7CF5FF&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Systems%20%2B%20Hardware&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,8&height=200&section=header&text=NEURAL%20INTERFACE&fontSize=50&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Systems%20%2B%20Hardware&descSize=20&descAlignY=55" width="100%"/>
 
 
 
@@ -22,8 +22,8 @@
 <br/><br/>
 
 <!-- Quick Stats in One Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=Umarii101&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=7CF5FF&icon_color=A78BFA&text_color=E6EDF3&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umarii101&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=7CF5FF&text_color=E6EDF3&langs_count=6" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Umarii101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7CF5FF&icon_color=A78BFA&text_color=E6EDF3&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umarii101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7CF5FF&text_color=E6EDF3&langs_count=6" height="170" />
 
 <br/>
 
