@@ -5,7 +5,8 @@
 <div align="center">
 
 <!-- Animated Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=NEURAL%20INTERFACE&fontSize=50&fontColor=7CF5FF&animation=fadeIn&fontAlignY=38&desc=AI%20%2B%20Systems%20%2B%20Hardware&descSize=20&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=header&text=NEURAL%20INTERFACE&fontSize=50&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=AI%20%2B%20Systems%20%2B%20Hardware&descSize=20&descAlignY=58" width="100%"/>
+
 
 
 <!-- Typing Animation -->
