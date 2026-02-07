@@ -28,6 +28,6 @@
 
 <br/>
 
-![Motto](https://img.shields.io/badge/"Don't%20just%20use%20it%20—%20understand%20and%20Apply"-7CF5FF?style=flat-square&labelColor=0D1117)
+![Motto](https://img.shields.io/badge/"Don't%20just%20use%20it%20,%20understand%20and%20Apply"-7CF5FF?style=flat-square&labelColor=0D1117)
 
 </div>
