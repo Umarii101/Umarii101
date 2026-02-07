@@ -7,7 +7,7 @@
 
 <br/>
 
-<!-- Compact Info Badges -->
+<!-- Compact Info Badges (All with grey left box) -->
 <img src="https://img.shields.io/badge/Focus-AI%20Systems-7CF5FF?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Stack-C%2B%2B%20%7C%20Python%20%7C%20CMOS-A78BFA?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Goal-Development%20%7C%20Software%20%7C%20Hardware-7CF5FF?style=flat-square&labelColor=0D1117" />
@@ -22,12 +22,13 @@
 
 <br/>
 
-<!-- Contact Links -->
-[![Email](https://img.shields.io/badge/Email-MuhammadUmar162001@gmail.com-7CF5FF?style=flat-square&logo=gmail&logoColor=white)](mailto:MuhammadUmar162001@gmail.com)
+<!-- Contact & Availability -->
+[![Email](https://img.shields.io/badge/Email-MuhammadUmar162001@gmail.com-7CF5FF?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:MuhammadUmar162001@gmail.com)
 <img src="https://img.shields.io/badge/Availability-24%2F7-7CF5FF?style=flat-square&labelColor=0D1117" />
 
 <br/>
 
+<!-- Motto -->
 ![Motto](https://img.shields.io/badge/"Don't%20just%20use%20it%20,%20understand%20and%20Apply"-7CF5FF?style=flat-square&labelColor=0D1117)
 
 </div>
