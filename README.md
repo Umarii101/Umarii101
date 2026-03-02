@@ -5,9 +5,9 @@
   <br/>
 
   <p>
-    <img src="https://img.shields.io/badge/Core-C++%2B%2B%20%7C%20Python%20%7C%20C-7CF5FF?style=flat-square" />
+    <img src="https://img.shields.io/badge/Core-C%2B%2B%20%7C%20Python%20%7C%20C-7CF5FF?style=flat-square" />
     <img src="https://img.shields.io/badge/Focus-Quantization%20%7C%20Inference-7CF5FF?style=flat-square" />
-    <img src="https://img.shields.io/badge/Hardware-CMOS%20%7C%20FPGA%20%7C%20ASIC-7CF5FF?style=flat-square" />
+    <img src="https://img.shields.io/badge/Hardware-CMOS%20%7C%20VLSI%20%7C%20ASIC-7CF5FF?style=flat-square" />
   </p>
   <br/><br/>
 
