@@ -1,22 +1,51 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Umarii101/Umarii101/main/assets/headers.svg" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=What+drives+me%3F;Systems+Performance+%26+Efficiency;AI+Hardware+Integration;Quantization+%7C+Inference+%7C+Optimization;Neural+Networks" alt="Typing SVG" />
+
+  <img
+    src="https://raw.githubusercontent.com/Umarii101/Umarii101/main/assets/headers.svg"
+    width="100%"
+    alt="Header"
+  />
+
   <br/>
-  <p>
-    <img src="https://img.shields.io/badge/Core-C%2B%2B%20%7C%20Python%20%7C%20C-7CF5FF?style=flat-square" />
-    <img src="https://img.shields.io/badge/Focus-Quantization%20%7C%20Inference-7CF5FF?style=flat-square" />
-    <img src="https://img.shields.io/badge/Hardware-CMOS%20%7C%20VLSI%20%7C%20ASIC-7CF5FF?style=flat-square" />
-  </p>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1400&color=A78BFA&center=true&vCenter=true&width=700&lines=Multimodal+Learning+%26+Generative+Models;Facial+Motion+%26+Human+Behavior+Modeling;Representation+Learning+%26+Efficient+Inference"
+    alt="Research interests"
+  />
+
   <br/><br/>
+
+  <p>
+    Master's researcher working on multimodal generative models for human behavior,
+    with a current focus on conversational facial motion and listener reaction generation.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Research-Multimodal%20Generative%20Models-7CF5FF?style=flat-square" />
+    <img src="https://img.shields.io/badge/Focus-Facial%20Motion%20%26%20Reaction%20Generation-7CF5FF?style=flat-square" />
+    <img src="https://img.shields.io/badge/Tools-PyTorch%20%7C%20Python%20%7C%20C%2B%2B-7CF5FF?style=flat-square" />
+  </p>
+
+  <br/>
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umarii101/Umarii101/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Umarii101/Umarii101/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Umarii101/Umarii101/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      alt="GitHub contribution graph"
+      src="https://raw.githubusercontent.com/Umarii101/Umarii101/output/github-contribution-grid-snake-dark.svg"
+    />
   </picture>
-  <br/>
+
+  <br/><br/>
+
   <a href="mailto:MuhammadUmar162001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-MuhammadUmar162001@gmail.com-7CF5FF?style=flat-square&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Email-MuhammadUmar162001%40gmail.com-7CF5FF?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
-  <img src="https://img.shields.io/badge/Availability-24%2F7-7CF5FF?style=flat-square" />
-  <br/>
-  <img src="https://img.shields.io/badge/Don't%20just%20use%20it%20--%20understand%20and%20apply-7CF5FF?style=flat-square" />
+
 </div>
